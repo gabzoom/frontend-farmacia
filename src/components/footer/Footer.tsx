@@ -10,7 +10,7 @@ function Footer() {
 
                 <div className="container flex flex-col items-center py-4">
 
-                    <p className='text-xl font-bold'>Farmácia - Generation | Copyright: {data}</p>
+                    <p className='text-xl font-bold'>FarmaG3X - Generation | Copyright: {data}</p>
 
                     <p className='text-lg'>Acesse nossas redes sociais</p>
 
